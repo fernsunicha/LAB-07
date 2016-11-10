@@ -138,10 +138,10 @@ A|	B|	Y
 
 A|	B|	Y
 :-----:|:-----:|:-----:
-0 | 0 |	
-0 | 1 |	
-1 | 0 |	
-1 | 1 |
+0 | 0 |	         0
+0 | 1 |	         1
+1 | 0 |	         1
+1 | 1 |          1
 	
 **Y = NOT A**
 
@@ -210,6 +210,12 @@ namespace thruthTable
 5. NOR
 6. Exclusive OR
 ```
+![](https://github.com/fernsunicha/LAB-07/blob/master/14.png?raw=true)
+
+![](https://github.com/fernsunicha/LAB-07/blob/master/15%20or.png?raw=true)
+
+![](https://github.com/fernsunicha/LAB-07/blob/master/16%20xor.png?raw=true)
+
 
 
 
@@ -367,4 +373,8 @@ The sine of       6.00 = -0.279415         *
 2.	y = cos(x)
 3.	y = tan(x)
 ```
-	
+![](https://github.com/fernsunicha/LAB-07/blob/master/17x2.png?raw=true)	
+
+![](https://github.com/fernsunicha/LAB-07/blob/master/18%20cos.png?raw=true)	
+
+![](https://github.com/fernsunicha/LAB-07/blob/master/19%20tan.png?raw=true)	
