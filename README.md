@@ -214,6 +214,11 @@ namespace thruthTable
 
 ![](https://github.com/fernsunicha/LAB-07/blob/master/15%20or.png?raw=true)
 
+![](https://github.com/fernsunicha/LAB-07/blob/master/33.png?raw=true)
+
+![](https://github.com/fernsunicha/LAB-07/blob/master/Untitled.png?raw=true)
+![](https://github.com/fernsunicha/LAB-07/blob/master/66.png?raw=true)
+
 ![](https://github.com/fernsunicha/LAB-07/blob/master/16%20xor.png?raw=true)
 
 
@@ -257,7 +262,10 @@ public class intergerTest
 8.	9/2*a
 9.	y%8
 10.	100*x+y%2-a
+
 ```
+
+![](https://github.com/fernsunicha/LAB-07/blob/master/sss.png?raw=true)
 ##2.2.3. ชนิดข้อมูลเลขทศนิยม (Floating Point and Decimal Types)
 ตัวเลขจำนวนทศนิยม มักจะใช้ในการคำนวณทางวิทยาศาสตร์ เนื่องจากค่าในวิทยาศาสตร์ต้องการความละเอียดสูง หรือมีค่าสูงมากกว่าที่เลขจำนวนเต็มจะเก็บได้
 
@@ -270,6 +278,7 @@ public class intergerTest
 ระยะทาง 1 ไมล์ คิดเป็น 1.609344 กิโลเมตร
 
 ให้เขียนโปรแกรมหาระยะทางในการเดินทางของแสง ในหน่วยกิโลเมตรต่อวินาทีและเวลาในการเดินทางของแสงจากดวงอาทิตย์มายังโลก
+![](https://github.com/fernsunicha/LAB-07/blob/master/fff.png?raw=true)
 
 ##ตัวอย่าง โปรแกรมคำนวณระยะทางและเวลาของแสงจากดวงอาทิตย์ถึงโลก
 ```csharp
